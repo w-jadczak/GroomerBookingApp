@@ -1,0 +1,6 @@
+[submodule "groomerWebApp"]
+	path = groomerWebApp
+	url = https://github.com/w-jadczak/groomerWebApp
+[submodule "groomerMsg"]
+	path = groomerMsg
+	url = https://github.com/w-jadczak/groomerMsg
